@@ -1,0 +1,25 @@
+{
+  "name": "simplenotetaker_hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaveyDavey1901/SimpleNoteTaker_HW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaveyDavey1901/SimpleNoteTaker_HW/issues"
+  },
+  "homepage": "https://github.com/DaveyDavey1901/SimpleNoteTaker_HW#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
