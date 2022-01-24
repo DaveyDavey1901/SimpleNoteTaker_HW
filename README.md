@@ -13,6 +13,8 @@
 
 A simple noter taker to help you keep all your notes and ideas in one place.
 
+This link takes you to the screencast video [Simple Note Taker](https://watch.screencastify.com/v/DuWa0SqEgLh6j32olmL3)
+
 ## :small_blue_diamond: Installation
 ---
 1. download or clone the file to your computer, 
