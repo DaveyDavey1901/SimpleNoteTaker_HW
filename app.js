@@ -1,3 +1,4 @@
+//dependancies
 const express = require('express');
 const path = require("path");
 const nodemon = require('nodemon');
